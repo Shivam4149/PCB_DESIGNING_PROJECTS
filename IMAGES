@@ -1,0 +1,4 @@
+  - Images– Folder containing visual references of the PCB design:
+  - top– Top view of the PCB showing component placement and tracks
+  - bottom – Bottom view showing routing and solder points
+  - layers – Internal layer structure for multi-layer PCB understanding
